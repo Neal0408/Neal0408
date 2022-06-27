@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 你好呀！我是`Neal`，是一个梦想成为`Data Scientist`的男人！
 
-是个又菜又爱玩爱折腾的新手，所以请多关照ヾ(◍°∇°◍)ﾉﾞ
+是个又菜又爱玩爱折腾的新手，所以请多关照ﾍ|･∀･|ﾉ*~●
